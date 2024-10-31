@@ -14,7 +14,7 @@ Menangani pembagian dengan nol dengan pesan kesalahan yang sesuai.
 Menawarkan opsi untuk melakukan perhitungan baru setelah hasil ditampilkan.
 
 ## Flowchart Program
-![Flowchart](https://github.com/fitrirmdhni22/lab2.py/blob/main/flowchartkalkulator.drawio.png?raw=true)
+![Flowchart](https://github.com/fitrirmdhni22/lab2py/blob/main/flowchartkalku.drawio.png?raw=true)
 
 ## Kode Program
 ```python
