@@ -65,7 +65,7 @@ Masukkan pilihan operasi (+, -, *, /): +
 Hasil dari penjumlahan: 50.0
 ```
 ## Cara Kerja
-Pengguna memasukkan 10 dan 5.
+Pengguna memasukkan 20 dan 30.
 Pengguna memilih operator +.
 Program menghitung 20 + 30 dan menampilkan hasil 50.0.
 Program menanyakan apakah pengguna ingin melakukan perhitungan lagi.
